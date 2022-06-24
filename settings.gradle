@@ -1,1 +1,1 @@
-include ':pointclubclient'
+include ':app'
